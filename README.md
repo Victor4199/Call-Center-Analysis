@@ -1,7 +1,24 @@
 # Call-Center-Analysis
 This project was meant to showcase the performance of a call center for the month of october 2025. This project uncovers sentiment distribution, contact channel preferences, and geographic call volume using dynamic pivot tables and an interactive dashboard.
 
-## 📊 Overview
+## Table of Contents
+- [📊 Overview](#-overview)
+- [📌 Key Findings](#-key-findings)
+  - [Sentiment Distribution](#sentiment-distribution-customer-experience)
+  - [Top Reasons for Customer Calls](#top-reasons-for-customer-calls)
+  - [Contact Channels Performance](#contact-channels-performance)
+  - [Call Volume by Location](#call-volume-by-location)
+  - [Daily Call Trend](#daily-call-trend)
+- [🧾 Files Included](#-files-included)
+- [⚙️ Tools Used](#️-tools-used)
+- [✅ Recommendations](#-recommendations)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [🤝 Contribute](#-contribute)
+- [📬 Contact](#-contact)
+
+
+
+### 📊 Overview
 
 This project analyses over **32,942 call records** to provide a detailed look into:
 - Customer sentiments (Positive, Neutral, Negative, Very Negative, Very Positive)
@@ -10,7 +27,7 @@ This project analyses over **32,942 call records** to provide a detailed look in
 - Location-based trends (State and City level)
 - Call volume by day of the month
 
-## 💡 Key Insights
+### 💡 Key Insights
 
 - **Sentiment Breakdown**:  
   - Negative: 11,063  
@@ -37,7 +54,7 @@ This project analyses over **32,942 call records** to provide a detailed look in
   - Call Center with the highest call volumes: Los Angeles/CA
   - Top states where the most calls came from: California, Texas, Florida
  
-## 📌 Recommendations Based on the Call Center Analysis
+### 📌 Recommendations Based on the Call Center Analysis
 - **Improve Negative Sentiment Rate (47% of calls)**
   - Train frontline agents on empathy, de-escalation, and resolution skills.
   - Introduce a real-time feedback system (thumbs up/down or post-call surveys) to identify and resolve high-frustration areas.
@@ -51,7 +68,7 @@ This project analyses over **32,942 call records** to provide a detailed look in
   - Since chatbots and email handle over 60% of calls, invest in improving these self-service systems.
   - Add smart routing to escalate unresolved chatbot and email conversations directly to live agents.
  
-## 🧾 Files Included
+### 🧾 Files Included
 
 | File | Description |
 |------|-------------|
@@ -59,13 +76,11 @@ This project analyses over **32,942 call records** to provide a detailed look in
 | `dashboard.png` | Screenshot of the interactive dashboard |
 | `README.md` | Project documentation |
 
-## 📷 Dashboard Preview
+### 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
----
-
-## ⚒ Tools Used
+### ⚒ Tools Used
 
 - **Microsoft Excel**
   - Pivot Tables & Charts  
@@ -74,7 +89,7 @@ This project analyses over **32,942 call records** to provide a detailed look in
 - **Data Wrangling**
   - Cleaning and restructuring within Excel
 
-## 📬 Contact
+### 📬 Contact
 
 Created by **Victor Ibe**  
 📧 [ibevictor99@gmail.com]  
