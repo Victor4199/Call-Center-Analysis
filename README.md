@@ -4,10 +4,6 @@ This project was meant to showcase the performance of a call center for the mont
 ## Table of Contents
 - [📊 Overview](#-overview)
 - [💡 Key Insights](#-key-Insights)
-  - [Sentiment Breakdown](#-Sentiment-Breakdown)
-  - [Top Call Reasons](#-Top-Call-Reasons)
-  - [Preferred Channels](#-Preferred-Channels)
-  - [Geographic Analysis](#-Geographic-Analysis)
 - [📌 Recommendations ](#-recommendations)
 - [🧾 Files Included](#-Files-Included)
 - [📷 Dashboard Preview](#-Dashboard-Preview)
