@@ -3,20 +3,16 @@ This project was meant to showcase the performance of a call center for the mont
 
 ## Table of Contents
 - [📊 Overview](#-overview)
-- [📌 Key Findings](#-key-findings)
-  - [Sentiment Distribution](#sentiment-distribution-customer-experience)
-  - [Top Reasons for Customer Calls](#top-reasons-for-customer-calls)
-  - [Contact Channels Performance](#contact-channels-performance)
-  - [Call Volume by Location](#call-volume-by-location)
-  - [Daily Call Trend](#daily-call-trend)
-- [🧾 Files Included](#-files-included)
-- [⚙️ Tools Used](#️-tools-used)
-- [✅ Recommendations](#-recommendations)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [🤝 Contribute](#-contribute)
+- [💡 Key Insights](#-key-Insights)
+  - [Sentiment Breakdown](#sentiment-Breakdown)
+  - [Top Call Reasons](#top-Call-Reasons)
+  - [Preferred Channels](#Preferred-Channels)
+  - [Geographic Analysis](#Geographic-Analysis)
+- [📌 Recommendations ](#-recommendations)
+- [🧾 Files Included](#-Files-Included)
+- [📷 Dashboard Preview](#-Dashboard-Preview)
+- [⚒ Tools Used](#-Tools-Used)
 - [📬 Contact](#-contact)
-
-
 
 ### 📊 Overview
 
@@ -54,7 +50,7 @@ This project analyses over **32,942 call records** to provide a detailed look in
   - Call Center with the highest call volumes: Los Angeles/CA
   - Top states where the most calls came from: California, Texas, Florida
  
-### 📌 Recommendations Based on the Call Center Analysis
+### 📌 Recommendations 
 - **Improve Negative Sentiment Rate (47% of calls)**
   - Train frontline agents on empathy, de-escalation, and resolution skills.
   - Introduce a real-time feedback system (thumbs up/down or post-call surveys) to identify and resolve high-frustration areas.
