@@ -4,8 +4,8 @@ This project was meant to showcase the performance of a call center for the mont
 ## Table of Contents
 - [📊 Overview](#-overview)
 - [💡 Key Insights](#-key-Insights)
-  - [Sentiment Breakdown](#-sentiment-Breakdown)
-  - [Top Call Reasons](#-top-Call-Reasons)
+  - [Sentiment Breakdown](#-Sentiment-Breakdown)
+  - [Top Call Reasons](#-Top-Call-Reasons)
   - [Preferred Channels](#-Preferred-Channels)
   - [Geographic Analysis](#-Geographic-Analysis)
 - [📌 Recommendations ](#-recommendations)
@@ -21,7 +21,6 @@ This project analyses over **32,942 call records** to provide a detailed look in
 - Reason for contact (Billing Question, Payments, Service Outage, etc.)
 - Contact channel preferences (Call Center, Chatbot, Email, Web)
 - Location-based trends (State and City level)
-- Call volume by day of the month
 
 ### 💡 Key Insights
 
@@ -74,7 +73,8 @@ This project analyses over **32,942 call records** to provide a detailed look in
 
 ### 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+[Call Center Dashboard](https://github.com/user-attachments/assets/389b4c5e-b61c-4bde-a81a-9002e83a1ddd)
+
 
 ### ⚒ Tools Used
 
